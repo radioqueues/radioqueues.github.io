@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1737243146114,
+  "timestamp": 1737407169512,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/chunk-ORI74IQP.js",
         "/favicon.ico",
         "/index.html",
-        "/main-53MTURIA.js",
+        "/main-N4REZ5KR.js",
         "/manifest.webmanifest",
         "/polyfills-EONH2QZO.js",
         "/styles-63NGGMQT.css",
@@ -124,8 +124,8 @@
     "/chunk-DUVSV5ZA.js": "79cc2d2f3d67f5bd02b341640ed3c755ad2bdff7",
     "/chunk-ORI74IQP.js": "7d9be8d6f95f211071fc54dc4b71bd938b7d7a59",
     "/favicon.ico": "257e2e824f28a924356610eca6d7afe5c0102e0d",
-    "/index.html": "2ee80fd4e7baf0f848f46c0d09fb48e1d82a74d7",
-    "/main-53MTURIA.js": "7705a7b1a1f163e70d5b9917ce82df5adbc2f9e9",
+    "/index.html": "29740e18c7e7afd286b0d88ab354d3d75fcfaffa",
+    "/main-N4REZ5KR.js": "7da0f74710fda03b82a1f90c485c7c03b4c33912",
     "/manifest.webmanifest": "a320ebf2851f416c29f78d1d12e19d537e441253",
     "/polyfills-EONH2QZO.js": "e61db933651ae257d0c246b446cd1f470be08f78",
     "/styles-63NGGMQT.css": "67baf00f8a0f776633d0a719b8fcfe2dbf00822b",
