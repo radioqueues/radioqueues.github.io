@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1737410133467,
+  "timestamp": 1738107455489,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/chunk-ORI74IQP.js",
         "/favicon.ico",
         "/index.html",
-        "/main-NNCXIPSS.js",
+        "/main-IX47U6A6.js",
         "/manifest.webmanifest",
         "/polyfills-EONH2QZO.js",
         "/styles-63NGGMQT.css",
@@ -25,7 +25,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -70,23 +70,7 @@
       "patterns": []
     }
   ],
-  "dataGroups": [
-    {
-      "name": "data",
-      "patterns": [
-        "http:\\/\\/localhost:8000\\/attachment\\/.*",
-        "http:\\/\\/localhost:8000\\/model[^/]*[^/]*"
-      ],
-      "strategy": "freshness",
-      "maxSize": 1000000,
-      "maxAge": 864000000000,
-      "timeoutMs": 0,
-      "cacheQueryOptions": {
-        "ignoreVary": true
-      },
-      "version": 1
-    }
-  ],
+  "dataGroups": [],
   "hashTable": {
     "/assets/fonts/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2": "4a4a4323ff7978e45aecdcbffe8a64191492c1ca",
     "/assets/fonts/KFOlCnqEu92Fr1MmEU9fBBc4.woff2": "44f495a7f32620e51acca2e78f7e0615cb305781",
@@ -126,8 +110,8 @@
     "/chunk-DUVSV5ZA.js": "79cc2d2f3d67f5bd02b341640ed3c755ad2bdff7",
     "/chunk-ORI74IQP.js": "7d9be8d6f95f211071fc54dc4b71bd938b7d7a59",
     "/favicon.ico": "257e2e824f28a924356610eca6d7afe5c0102e0d",
-    "/index.html": "28d3a903300a4d962ccc3b3a8cec91e63b36409a",
-    "/main-NNCXIPSS.js": "c0fd955b5f0ca52ec0f44f1a3584c583df9f0647",
+    "/index.html": "63ef3837515968e8d7008d394d09d722368347ec",
+    "/main-IX47U6A6.js": "c071d9d4644871b0f164e26819c23a45a0edab21",
     "/manifest.webmanifest": "a320ebf2851f416c29f78d1d12e19d537e441253",
     "/polyfills-EONH2QZO.js": "e61db933651ae257d0c246b446cd1f470be08f78",
     "/styles-63NGGMQT.css": "67baf00f8a0f776633d0a719b8fcfe2dbf00822b",
